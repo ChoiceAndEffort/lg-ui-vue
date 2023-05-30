@@ -1,9 +1,9 @@
-# LG-UI-VUE 组件
+# LG-UI 组件
 
 ## Install
 
 ```
-npm install lg-ui-vue -S
+npm install @lg/lg-ui -S
 
 ```
 
@@ -11,7 +11,7 @@ npm install lg-ui-vue -S
 
 ```js
 import Vue from "vue";
-import LgUiVue from "lg-ui-vue";
+import LgUi from "@lg/lg-ui";
 
-Vue.use(LgUiVue);
+Vue.use(LgUi);
 ```
